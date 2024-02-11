@@ -1,0 +1,21 @@
+Expectation 1:
+Learn.
+
+Agreements:
+~END~
+
+
+
+Expectation 2:
+Practice.
+
+Agreements:
+~END~
+
+
+
+Expectation 3:
+Enjoy.
+
+Agreements:
+~END~
